@@ -6,7 +6,8 @@ teams = [
       '3B': 'Bregman',
     }
   },
-  {'angels': {
+  {
+    'angels': {
       'OF': 'Trout',
       'DH': 'Pujos',
     }
