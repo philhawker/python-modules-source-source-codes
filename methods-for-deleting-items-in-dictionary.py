@@ -6,6 +6,9 @@ teams = {
 }
 
 
-del teams['mets']
+del teams['angels']
+
+removed_teams = teams.pop('red sox', 'Team not found')[0]
 
 print(teams)
+print(removed_teams)
